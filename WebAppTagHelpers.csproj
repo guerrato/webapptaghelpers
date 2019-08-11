@@ -19,5 +19,10 @@
 
   <ItemGroup>
     <Folder Include="TagHelpers\" />
+    <Folder Include="Pages\Admin\" />
+    <Folder Include="Pages\Public\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="TagHelpersLib\TagHelpersLib.csproj" />
   </ItemGroup>
 </Project>
