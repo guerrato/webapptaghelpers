@@ -21,6 +21,7 @@
     <Folder Include="TagHelpers\" />
     <Folder Include="Pages\Admin\" />
     <Folder Include="Pages\Public\" />
+    <Folder Include="Pages\AutoPrice\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="TagHelpersLib\TagHelpersLib.csproj" />
